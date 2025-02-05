@@ -17,6 +17,6 @@
 ## Run the Game:
 
 1. Clone down the repo on your local machine
-2. Open terminal and run python3 --version to ensure you have python installed; if not, follow (Download Python)[https://www.python.org/downloads/]
+2. Open terminal and run python3 --version to ensure you have python installed; if not, follow [Download Python](https://www.python.org/downloads/)
 3. Run `python3 game.py` in your terminal
 4. Follow prompts and let the games begin!
