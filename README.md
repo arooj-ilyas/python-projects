@@ -13,3 +13,10 @@
 3. The game will prompt you to make a guess, and it will provide feedback based on your guess - whether it's too low or too high.
 4. You have 5 attempts to guess the correct number. Can you crack the code within these attempts?
 5. If you guess the number correctly, the game will congratulate you and display the number of attempts it took. If not, the game will reveal the correct number.
+
+## Run the Game:
+
+1. Clone down the repo on your local machine
+2. Open terminal and run python3 --version to ensure you have python installed; if not, follow (Download Python)[https://www.python.org/downloads/]
+3. Run `python3 game.py` in your terminal
+4. Follow prompts and let the games begin!
